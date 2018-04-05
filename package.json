@@ -1,0 +1,25 @@
+{
+  "name": "companyfindercrm",
+  "version": "0.0.1",
+  "description": "Building a crm for student management",
+  "main": "index.js",
+  "scripts": {
+    "test": "ctrl R"
+  },
+  "repository": {
+    "type": "git",
+    "url": "c:\\users\\zack\\desktop\\angularjsfolder\\git"
+  },
+  "keywords": [
+    "crm",
+    "relationships",
+    "customer",
+    "manager"
+  ],
+  "author": "Zack",
+  "license": "ISC",
+  "dependencies": {
+    "angularjs": "0.0.1",
+    "express": "^4.16.3"
+  }
+}
